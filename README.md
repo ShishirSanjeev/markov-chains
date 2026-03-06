@@ -33,4 +33,7 @@ analyzing the spectral structure of a DTMC, particularly when eigenvalues are
 complex-valued.
 
 ## Requirements
-Install dependencies with pip install -r requirements.txt
+Install dependencies with 
+```python
+pip install -r requirements.txt
+```
